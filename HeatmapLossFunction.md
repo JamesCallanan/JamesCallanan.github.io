@@ -1,6 +1,10 @@
 # Integrating feature attribution methods into the loss function of deep learning classifiers
 
-- IMVIP 2022 short [paper](https://jamescallanan.github.io/assets/ShortPaper.pdf)
+- IMVIP 2022 short [paper](https://doras.dcu.ie/27762/)
+
+Other links:
+
+- Copy of [paper](https://jamescallanan.github.io/assets/ShortPaper.pdf
 - Project [code](https://github.com/JamesCallanan/Grad-CAM)
 - IMVIP 2022 [poster](https://jamescallanan.github.io/assets/Poster.pdf)
 
